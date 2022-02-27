@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right and legall church-warden. Declaring and expressing their lawfull admittance unto the said office by the choice and appointment of the lord major and aldermen of London, the majors, and bailiffs of cities and corporations and by the justices of peace in each county through England, so that they may be legally authorized without any future dependance on the prelates. In a petition exhibited with all due respect unto the right honourable the lord major and aldermen of London. / By Rich. Dey minister of the Gospell.</title>
+            <author>Dey, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81407</idno>
+            <idno type="STC">Wing D1286</idno>
+            <idno type="STC">Thomason E95_5</idno>
+            <idno type="STC">ESTC R13771</idno>
+            <idno type="EEBO-CITATION">99859545</idno>
+            <idno type="PROQUEST">99859545</idno>
+            <idno type="VID">111634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111634)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E95[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right and legall church-warden. Declaring and expressing their lawfull admittance unto the said office by the choice and appointment of the lord major and aldermen of London, the majors, and bailiffs of cities and corporations and by the justices of peace in each county through England, so that they may be legally authorized without any future dependance on the prelates. In a petition exhibited with all due respect unto the right honourable the lord major and aldermen of London. / By Rich. Dey minister of the Gospell.</title>
+                  <author>Dey, Richard.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Underhill at the signe of the Bible in Wood-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill. 6.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Officials and employees --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111634:1" rendition="simple:additions"/>
+            <p>THE RIGHT AND LEGALL CHVRCH-WARDEN.</p>
+            <p>Declaring and expreſſing their lawfull admittance unto the ſaid office by the choice and appointment of the Lord <hi>Major</hi> and <hi>Aldermen</hi> of <hi>London,</hi> the <hi>Majors,</hi> and <hi>Bailiffs</hi> of <hi>Cities</hi> and <hi>Corporations</hi> and by the <hi>Juſtices</hi> of peace in each County through <hi>England,</hi> ſo that they may be legally authorized without any future dependance on the Prelates.</p>
+            <p>
+               <hi>In a</hi> Petition <hi>exhibited with all due respect unto the right Honourable the Lord</hi> Major <hi>and</hi> Aldermen <hi>of</hi> London.</p>
+            <p>By <hi>Rich. Dey</hi> Miniſter of the Goſpell.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas <g ref="char:V">Ʋ</g>nderhill</hi> at the Signe of the Bible in Wood-ſtreet, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111634:2"/>
+            <pb n="1" facs="tcp:111634:2"/>
+            <head>The right and legall CHURCHWARDEN.</head>
+            <head>To the Right Honourable the Lord <hi>Major</hi> of the City of <hi>London,</hi> and the right worſhipfull his Brethren the Aldermen of the ſame. <hi>The Petition of</hi> Richard Dey <hi>Clerke,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the long abuſe of ſome eccleſiaſticall laws (the remedy whereof we find to be difficult, eſpecially the ſame being mannaged by corrupt perſons, whoſe abuſive practiſes are ſo much the worſe by how much the more power &amp; authority ſuch perſons have to disburden their Malignant diſpoſition either in Church or Common<g ref="char:EOLhyphen"/>wealth) by the diſcords and diſtractions of the Church have produced many diſtempers and diſturbances in the Common-wealth (w<hi rend="sup">ch</hi> tend to deſtructive effects, if not warily and timely pre<g ref="char:EOLhyphen"/>vented;) ſo that the abuſe of ſuch Laws by ſuch abuſive perſons, having already effected ſo much evill, is very likely to produce much more (which thoughts are ſufficient inſtigations to ſtir-up every good Subject in his place to uſe his utmoſt indeavour to hinder the growth of ſo great miſchiefe.) And foraſmuch as we find it ſo exceedingly difficult not only to rectifie old bad Laws degenerated into worſe cuſtomes, but alſo to obtaine any better new, we have the more reaſon to reflect our thoughts upon the perſons who are to have the management therof, which by cuſtom and conſtitution of ſome offices may be more changeable from bad to better perſons, who like good Bees may ga<g ref="char:EOLhyphen"/>ther the hony from thoſe flowers of Law now in force, where formerly Spiders have gathered poyſon, that ſo the venome of every bad cuſtome may be molli<g ref="char:EOLhyphen"/>fied by the dexterity of thoſe that have the guidance. And whereas there is an happy concurrence in the civill government of this City by the bleſſing of God and ſpeciall care of good Citizens, in their late more then ordinary regard, ac<g ref="char:EOLhyphen"/>cording
+<pb n="2" facs="tcp:111634:3"/> to their right and priviledge to chooſe good and well-affected Alder<g ref="char:EOLhyphen"/>men and Common-councell men, ſo not only the ſaid Common-councell and other Governours will be much ſtrengthned and well aſſiſted, but alſo the ge<g ref="char:EOLhyphen"/>nerall unity and unanimous concurrence of this whole body politicke will be marvellouſly augmented, if the like induſtry and ſpeciall care be had, that none but ſuch as are very well known to be ſolidly diſcreet and well affected m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n be choſen and nominated to that ancient, commendable and very uſefull office of Church-warden; an office which as it is much countenanced both by the com<g ref="char:EOLhyphen"/>mon Statute and Eccleſiaſticall Laws yet in being; ſo hath it exceeding much in<g ref="char:EOLhyphen"/>fluence upon the publick-weal, as relating both to Church and Common-wealth and concerning all mens Religion, perſons and eſtates, whether rich or poore in every Pariſh.</p>
+            <p>To this end therfore your Petitioner is ſubmiſſively bold to preſent unto your grave wiſdoms his deſire, that the good Statute enacted by <hi>Parli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment</hi> in the 43 year of Q. <hi>Eliz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>beth</hi> of happy memory,<note place="margin">43. <hi>Eliz. c.</hi> 2.</note> intituled, <hi>An Act for the relief of the poore,</hi> may be put in due execution, as concerning the nomination of <hi>Church warden<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Over-ſeers,</hi> who are <hi>to be nominated yearly in Eaſter-week or within one mon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after Easter, under the hand and Seal of two or more Juſtices of Peace in the ſame County, whereof one to bee of the Quorum dwelling in or neere the ſame Pariſh or diviſion where the ſame Pariſh doth lye,</hi> and under the hands and Seales of <hi>the Majors,</hi>
+               <note place="margin">The ſubtilty and audaci<g ref="char:EOLhyphen"/>ous boldnes of Prelats to make a Ca<g ref="char:EOLunhyphen"/>non againſt a Sta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ute co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>trary to 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. H. 8 <hi>c</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and to take that opportunity the Kingdom being full of buſines and the Parlia<g ref="char:EOLhyphen"/>ment un<g ref="char:EOLhyphen"/>willing to offend and diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leaſe the new King o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wrangle with the Clergy, &amp; to make it ſo plauſi<g ref="char:EOLunhyphen"/>ble that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e would wil<g ref="char:EOLhyphen"/>lingly obey it.</note> 
+               <hi>Bailiffes or other Head-officers of every Town and place corporate, and City within this Realme, being Juſtice or Justices of Peace,</hi> and likewiſe under the hand and Seale of <hi>every Alderman of the City of London within his ward,</hi> as by the ſaid Act more at large may appeare (though it have bin much neglected, and in that point long diſuſed, by the ſubtill practiſes of the Prelates, who within a yeare or two after the making therof, <hi>viz.</hi> in the firſt yeare of K. <hi>James</hi> of famous memory, made and ordained a Canon in their <hi>Synod</hi> or <hi>Convocation</hi> at <hi>London</hi> 1603. <hi>That all Church-wardens or Queſtmen in every Pariſh ſhall be choſen by the joynt conſent of the Miniſter and Pariſhioners if it may be, but if they cannot agree upon ſuch a choice, then the Miniſter ſhall chooſe one, and the Pariſhioners another, and without ſuch a joynt or ſeverall choice none ſhall take upon them to be Church-wardens, &amp;c. Can.</hi> 89. by which croſſing Canon the pra<g ref="char:EOLhyphen"/>ctiſe and cuſtom of the ſaid Statute is nullified, and therfore the Petitioners de<g ref="char:EOLhyphen"/>ſire is, that the ſaid Act may be ſo put in due execution in point of no<g ref="char:EOLhyphen"/>mination of the ſaid <hi>Church-wardens</hi> and <hi>Overſeers,</hi> that whether they be choſen by the <hi>major</hi> or <hi>minor</hi> part of Pariſhion<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs or other wiſe by the Mi<g ref="char:EOLhyphen"/>niſter, yet by the advice and aſſiſtance of the Common-councell men of the ſe<g ref="char:EOLhyphen"/>verall Pariſhes they may be approved and nominated as afore-ſaid by each Al<g ref="char:EOLhyphen"/>derman in his ward under hand and Seale according to the tenour of the ſaid
+<pb n="3" facs="tcp:111634:3"/> Statute, and that none may be ſo nominated, who are not known to be of ſound diſcretion and well-affected.</p>
+            <p>And your Petitioner ſhall be the more engaged to pray for a bleſſed ſucceſſe, both of this, and other your pious endeavours for the good of Chriſts Church and people, <hi>&amp;c.</hi>
+            </p>
+            <p>Now concerning the ground of this Petition two things are very conſidera<g ref="char:EOLhyphen"/>ble,
+<list>
+                  <item>1. Whether this Statute be in force.</item>
+                  <item>2. Whether this be the true ſenſe and meaning of it.</item>
+               </list>
+            </p>
+            <p n="1">1. This Statute being apparantly the ſame in ſubſtance (only amended, enlarged and explained, but very little changed) with another of the ſame title and nature, made the 39 yeare of her raigne, and made only to endure till the end of the next Seſſion of Parliament, which was in the 43. yeare of her raigne, at which time inſtead of reviving it againe, this was made out of the other, and made like<g ref="char:EOLhyphen"/>wiſe to endure no longer then to the end of the next Seſſion of <hi>Parliament,</hi> which was in the firſt yeare of King <hi>James</hi> of happy memory, at which time the Prelates made the 89 Canon, and the Parliament, <hi>cap.</hi> 25. continued this Statute with an addition to the end of the firſt Seſſion of the next Parliament, and the third of King <hi>James,</hi> being but the ſecond Seſſion of the ſame Parliament in the firſt yeare, ſo the next was in the ſeventh yeare, and in the 21. yeare it was (with an addition made 1<hi rend="sup">0</hi>. <hi>Jacobi.</hi> and another then ad<g ref="char:EOLhyphen"/>ded further) adjudged ever ſince the Seſſion of Parliament in the ſeventh yeare, to have bin of ſuch force and effect as the ſame was the laſt day of that Seſſion, and from thence forth untill the end of the firſt Seſſion of the next Parliament, which was in the firſt yeare of King <hi>Charles,</hi> and ſo after ſo often continuing it was laſtly revived in the third yeare of his Majeſty King <hi>Charles</hi> that now is, and whom God long preſerve and ſo remaineth in force (or alſo a great num<g ref="char:EOLhyphen"/>ber of other Statutes are out of force, which together with this were revived, 3. <hi>Caroli cap.</hi> 4.) to the end of this Parliament, which God of his goodneſſe bleſſe and proſper to the ſtabliſhing of many more good Laws.</p>
+            <p n="2">2. Now as touching the ſenſe, the only doubt that is or can be taken con<g ref="char:EOLhyphen"/>cerning nomination is whether the meaning of the firſt full period be that <hi>the Church wardens, and foure, three or two houſholders to be nominated yearely,</hi> &amp;c. <hi>ſhall be called Overſeers,</hi> or <hi>that the foure, three or two houſholders only to be nomi<g ref="char:EOLhyphen"/>nated,</hi> as afore-ſaid, <hi>ſhall be called Over-ſeers,</hi> now if the words ſhould be taken this latter way, the ſentence would be non-ſence, leaving out the Church-war<g ref="char:EOLhyphen"/>dens from any conſtruction with any verbe, and ſo the words following, <hi>They or the greater part of them</hi> would only have relation to <hi>the foure, three or two
+<pb n="4" facs="tcp:111634:4"/> Houſholders,</hi> wheras they muſt needs relate unto the <hi>Church-wardens and Houſ<g ref="char:EOLhyphen"/>holders</hi> both, and therefore it muſt needs meane that <hi>the Church-wardens and Houſholders,</hi> &amp;c. <hi>to be nominated,</hi> &amp;c. <hi>by two Juſtices,</hi> &amp;c. <hi>ſhall be called Over-ſeers,</hi> &amp;c. <hi>And they or the greater part of them ſhal take order,</hi> &amp;c. and ſo it fol<g ref="char:EOLhyphen"/>lowes accordingly, <hi>by the ſaid Church-wardens and Over-ſeers, or the greater part of them;</hi> but a little further in the Statute it makes all cleare and undeniable, that the nomination is meant of Church-wardens, as well as Over ſeers parti<g ref="char:EOLhyphen"/>cularly ſo called, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe words, <hi>which ſaid Church-wardens and Over-ſeers ſo to be nominated, or ſuch of them as ſhall not be l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by ſickneſſe,</hi> &amp;c. <hi>ſhall meet toge<g ref="char:EOLhyphen"/>ther at leaſt once every month in the Church,</hi> &amp;c. And againe a li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle further it fol<g ref="char:EOLhyphen"/>lowes as plainly; <hi>Shall pay and deliver over to the ſaid Church-wardens and Over-ſeers newly nominated and appointed, as aforeſaid;</hi> and yet further in the ſaid <hi>Sta<g ref="char:EOLhyphen"/>tute,</hi> it follows more plainly and expreſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly thus; <hi>And every of them respectively within their ſeverall limits, wards and juriſdictions to execute the ordinances before mentioned concerning the nomination of Over-ſeers, the conſent to binding Prentiſes, the giving warrant to levy taxations unpaid, the taking account of Church wardens and Over-ſeers,</hi> &amp;c. So that this being ſo plaine and manifeſt, that no man can deny it who hath out 5. whole ſenſes I ſhall not need to adde a word more for this, but only that which followes in the <hi>Statute</hi> (which I hope will be a mo<g ref="char:EOLhyphen"/>tive to the granting of this Petition) <hi>That if in any place within this Realme there happen to be hereafter no ſuch nomination of Over-ſeers, as is before appointed, that then every Juſtice of Peace,</hi> &amp;c. <hi>and every Major, Alderman and Head Officer,</hi> &amp;c. <hi>where ſuch default ſhall happen ſhall looſe and forfeit for every ſuch default five <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to be imployed to the reliefe of the poore of the ſaid Pariſh,</hi> &amp;c.</p>
+            <div type="part">
+               <head>A ſhort touch of the nature and office of Church-wardens.</head>
+               <p>IF w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would truly underſtand what a Church-warden ſhould and ought to do, are muſt conſider them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ture of his office, he is now called <hi>guardia<g ref="char:EOLhyphen"/>nus <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ccleſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>den, neither and defender of the Church and Church-goods, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>aedituus qui ſaor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> adibu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> praeest,</hi> one that hath the rule, over-ſight and care of the publike place a pointed for Gods worſhip, and ſuch things as pertain ther<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and although the Arch-Prelat<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. <hi>Yorke B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Williams</hi> would perſwade us, that he is only <hi>the Biſhops proper Officer, Holy Table,</hi> pag 78. (as indeed, they have lately under the tyra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny of the Prelats been ſhamefully abuſed rather, as if they were their ſwornely <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s then any authorized Church-governours<g ref="char:punc">▪</g>) and that <hi>as the Arch-deacon</hi> is the Biſhops eye (no marvell then if the Biſhops bee blinkand<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>ſo the Church-warden is only the hand of the Biſhop to put all his mandaies in execution, Holy Table,</hi> pag. 80. yet it ſhould ſeeme that his office is of farre
+<pb n="5" facs="tcp:111634:4"/> more excellency, as intruſted by the people with all the Church and Church-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oods, and the Miniſtry thereof, and to ſtand for them and their right in the miniſtery and ordinances of Chriſt againſt the <hi>Pope,</hi> the <hi>Prelats,</hi> the <hi>falſe Pa<g ref="char:EOLhyphen"/>trons,</hi> and the lewd Prieſts, and that even by paction or covenant and agree<g ref="char:EOLhyphen"/>ment with the very firſt <hi>founders</hi> of Churches, who (as appeares in the Canon Law) ſometimes would not build Churches, except they and their ſucceſſours (whom in charity they hoped would prove as godly and religious as themſelvs to withſtand the incroaching Prelates who foiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed in ſo many leud Prieſts) might have the nomination and putting in of one <hi>Miniſter</hi> or <hi>Rector</hi> ſo called, and the very Popes Canons allowing in every Church ſmall or great <hi>Rector &amp; religioſi,</hi> a Parſon and other Clergy men, <hi>&amp; elerici duo ad minus in Eccleſia eſſe de<g ref="char:EOLhyphen"/>lent,</hi> that at leaſt two Clergy men ought to be in every Church, <hi>Gratian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> deeres. par.</hi> 3. <hi>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> confecr. diſt.</hi> 1. <hi>fol.</hi> 424. <hi>ad marg.</hi> And likewiſe our own Service book (which I know our la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> love ſo well, that for it they would hazard all their benefices in <hi>England,</hi> not out of truth and devotion, but that therby they may keepe under in bondage and drudgery their five-pound journy-men) even i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (which they ſay is ſtabliſhed by Parliament) allowes in all Churches in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (for the booke is generally impoſed) <hi>Paſtors and Curates, R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n.</hi> to <hi>Priv. Bapt.</hi> and <hi>the Curat of every Pariſh</hi> (beſides whom the Patron will f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d a Rect<g ref="char:EOLhyphen"/>or) <hi>ſhall diligently upon Sundayes inſtruct and examine ſo many children of this Pa<g ref="char:EOLhyphen"/>riſh, Pubr.</hi> of <hi>Confirm.</hi> and yet be cannot be the Parſon, (who in all lawe and in common ſpeech is another title, and another power and priviledge) So I by theſe <hi>Gardians</hi> or <hi>Wardens,</hi> who are in every Pariſh at leaſt two, with con<g ref="char:EOLhyphen"/>ſort of the people ſhould nominate the other upon every lawfull vacation, which is only 1. by <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ath.</hi> 2. By legall <hi>deprivation.</hi> Or 3. By voluntary <hi>re<g ref="char:EOLhyphen"/>ſignation</hi> or <hi>departure</hi> to another living, although indeed the Biſhops from the peoples commendation had the legall approbation and admittance, as to whom it belonged to ſee that no ignorant, unable, unworthy, or unfit perſon ſhould through the peoples ignorance be brought-in by friendſhip,<note place="margin">Church-wardens may keepe out any Par<g ref="char:EOLhyphen"/>ſons journy-man, for not the Parſon, but the Biſh. hath power to put in or put out a Miniſter, eve the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urat ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uld n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> come in by the Parſon.</note> flattery or any ſini<g ref="char:EOLhyphen"/>ſter me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res: and therefore the nature of this office being ſuch, as likewiſe to be a Warden in t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me of the vacancy of a Rector: I find it committed to the care of theſe Wardens by Arch-biſhop <hi>Parker,</hi> and the Synod at <hi>London,</hi> 1571 <hi>Aeditui nulit n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nec Rectorem, nec Vicarium reciptent ad miniſterium Eccleſiae ſuae niſi quem Epiſcopus inſtitutione ſua approbaverit &amp; in poſſeſſionem illius Eccleſiae mandato ſuo miſerit, nec Parochum recipient niſi literis &amp; ſigillo Epiſcopi nominatim i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i Eccleſiae commendatum.</hi> pag. 18. That the <hi>Church-war<g ref="char:EOLhyphen"/>dens</hi> ſhall receive no man, neither <hi>Parſon</hi> nor <hi>
+                     <g ref="char:V">Ʋ</g>icar</hi> to the miniſtery of their Church, but whom the Biſhop by his inſtitution ſhall approve, and by his man<g ref="char:EOLhyphen"/>date put into poſſeſſion of that Church, neither ſhall they receive any <hi>Curat,</hi>
+                  <pb n="6" facs="tcp:111634:5"/> except he be commended to that <hi>Church</hi> by name under the hand and Seale of the biſhop, nay even the Prelates owne chiefe Canons at their <hi>Synod at Lon<g ref="char:EOLhyphen"/>don,</hi> 1603. (For I hope I may be allowed to cut-off <hi>Goliahs</hi> head with his owne Sword) doe not only give leave, but expreſſe command, <hi>That neither</hi>
+                  <note n="*" place="margin">Every be<g ref="char:EOLhyphen"/>neficed rea<g ref="char:EOLhyphen"/>cher being injoyned by the 45 Cano<g ref="char:cmbAbbrStroke">̄</g> to preach one Sermon every Sund. and more they will not doe except they be paid the reſt of the day the Churchwar<g ref="char:EOLhyphen"/>dens have power to ad<g ref="char:EOLhyphen"/>mit another even by this Canon, for if they may re<g ref="char:EOLunhyphen"/>ject they may admit.</note> 
+                  <hi>the Miniſter, Church-wardens nor any other Officers of the Church ſhall ſuffer any man to preach within their Churches or Chappels, but ſuch as ſhall appeare unto them to be ſufficiently authorized thereunto. Canon</hi> 50. Theſe grounds conſidered and compared, ſeeme to agree much with that name and office mentioned in the new Teſtament <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Princeps Sinagogae,</hi> the <hi>Arch-ſinagoguiſt</hi> or <hi>chiefe-Congregationer</hi> or <hi>Ruler of the Sinagogue;</hi> the word is mentioned at leaſt 7. or 8. times in the new Teſtament, <hi>viz. Mark.</hi> 5.22, 35, 38. <hi>Luk</hi> 8.41, 49. &amp; <hi>Luk.</hi> 13.14. <hi>Act.</hi> 13.15. &amp; 18.8, 17. where two are mentioned <hi>Crispus</hi> and <hi>Soſthenes</hi> in one Congregation for ought appeares contrary, but <hi>Act.</hi> 13.15. it is manifeſt that in one Sinagogue there were 3, 4. or more, for the word is not the duall, but the plurall number <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>The Ru<g ref="char:EOLhyphen"/>lers of the Sinagogue ſent unto them</hi> to preach, whence it is evident they were many, and joyntly had power to admit a Preacher after their ordinary duties ended, in that Congregation where the Apoſtles themſelves were both heater<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Preachers, ſo that here ſeemes as good ground for this office rightly recti<g ref="char:EOLhyphen"/>fied, as for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Elders of the lay-people,</hi> mentioned, <hi>Mat.</hi> 21.23, and other places, where the conſequence ſeemes to admit therof, but of theſe, as alſo of our <hi>Parſons, <g ref="char:V">Ʋ</g>icars, Curates and Lecturers</hi> their right and ſtanding di<g ref="char:EOLhyphen"/>vine or humane with the intolerable<note n="*" place="margin">As now at this preſent Mr. <hi>V.</hi> doth moſt ſhame<g ref="char:EOLhyphen"/>fully tyran<g ref="char:EOLhyphen"/>nize over <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, who have ever reſpected <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im in all things.</note> tyranny of ſome over others, I ſhall have occaſion to ſpeak more at large hereafter with Gods aſſiſtance, and in the mean time, I ſhall bid the Chriſtian Reader heartily to farwell. <hi>London Aprill</hi> 3. 1643.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
